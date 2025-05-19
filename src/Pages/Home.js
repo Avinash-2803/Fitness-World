@@ -1,9 +1,10 @@
 import React, { useState } from 'react';
-import { Box, Container } from '@mui/material';
+import { Box, Container,Button } from '@mui/material';
 
 import HeroBanner from '../Components/HeroBanner';
 import SearchExercises from '../Components/SearchExercises';
 import Exercises from '../Components/Exercises';
+import { Link } from 'react-router-dom';
 
 
 const Home = () => {
@@ -14,6 +15,14 @@ const Home = () => {
     <Box>
       {/* HeroBanner component at the top */}
       <HeroBanner />
+
+    <Box display="flex" justifyContent="center" mt={2}>
+        <Link to="/user" style={{ textDecoration: 'none' }}>
+          <Button variant="contained" color="primary">
+            Manage Workout Plans
+          </Button>
+        </Link>
+      </Box>
 
       {/* Search and display exercises based on the body part */}
       <SearchExercises 

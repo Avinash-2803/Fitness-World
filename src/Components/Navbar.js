@@ -23,6 +23,9 @@ const Navbar = () => {
       >
         <Link to="/" style={{ textDecoration: 'none', color: '#3A1212', borderBottom: '3px solid #FF2625' }}>Home</Link>
         <Link to="/exercises" style={{ textDecoration: 'none', color: '#3A1212' }}>Exercises</Link>
+        <Link to="/exercises" style={{ textDecoration: 'none', color: '#3A1212' }}>Login</Link>
+        <Link to="/exercises" style={{ textDecoration: 'none', color: '#3A1212' }}>Signup</Link>
+
       </Stack>
     </Stack>
   );
