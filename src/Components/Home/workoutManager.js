@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 
-const API_BASE_URL = "https://backend-3-unh6.onrender.com";
+const API_BASE_URL = "https://your-backend.onrender.com/api/user";
 
 const WorkoutManager = () => {
   const [workouts, setWorkouts] = useState([]);
