@@ -1,71 +1,128 @@
-# Getting Started with Create React App
+🏋️ Fitness Tracker App
+A full-stack fitness tracking web application where users can log their workouts, track their progress, and stay motivated. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js) with Firebase Authentication and CRUD integration for personalized fitness tips.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🚀 About Me
+Hi, I'm Avinash Joshi — a passionate and curious software developer who loves building impactful tech products and solving complex problems.
 
-## Available Scripts
+💻 Skilled in MERN Stack (MongoDB, Express.js, React.js, Node.js) and Java with Spring Boot
+🧠 Strong command over Data Structures & Algorithms (DSA) with a proven track record
+🏆 Global Rank 347 in CodeChef Starters 191 Contest
+🧩 Solved 350+ problems on LeetCode, consistently honing problem-solving skills
+🚀 I’m deeply interested in emerging technologies, system design, and scalable architecture
+🎯 Always looking to collaborate on innovative projects, contribute to open source, and grow as a developer
+Let's connect and build something awesome! 🚀
 
-In the project directory, you can run:
+🚀 Features
+🔐 User Authentication – Sign up and log in using Firebase.
+📝 Workout Logging – Add, update, and delete daily workouts.
+📊 Progress Dashboard – Visualize progress over time.
+🤖 AI Fitness Assistant – Get personalized tips using GenAI.
+💪 Exercise Library – Browse exercises with instructions and videos.
+🔍 Search & Filter – Quickly find specific workouts or categories.
+🧱 Tech Stack
+Frontend: React.js, Tailwind CSS
+Backend: Node.js, Express.js
+Database: MongoDB
+Authentication: Firebase Auth
+AI Integration: OpenAI / GenAI
+Deployment: Vercel (Frontend), Render/Heroku (Backend)
+📸 Screenshots
+Here are some glimpses of the Fitness Tracker App in action 🏋️‍♀️:
 
-### `npm start`
+🏠 Home Page
+Overview of the app with user-friendly navigation and motivational quotes.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Home Page
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+🔐 Login / Sign Up
+Secure authentication with Firebase. Sign in or register to start tracking your fitness journey.
 
-### `npm test`
+Login Page
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+📝 Add Workout
+Log your daily workouts with exercise type, duration, and notes.
 
-### `npm run build`
+Add Workout
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+📊 Dashboard
+Visualize your progress with charts and summaries of past workouts.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Dashboard
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+🤖 AI Fitness Assistant
+Get personalized fitness tips and insights powered by GenAI.
 
-### `npm run eject`
+AI Assistant
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+🌙 Dark Mode
+Switch between light and dark themes for a better user experience.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Dark Mode
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+🛠️ Installation & Setup
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Follow the steps below to run the project locally on your machine 👇
 
-## Learn More
+📦 1. Clone the Repository
+git clone https://github.com/your-username/fitness-tracker-app.git
+cd fitness-tracker-app
+🔧 2. Install Dependencies
+📁 Frontend
+bash
+Copy
+Edit
+cd frontend
+npm install
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+📁 Backend
+bash
+Copy
+Edit
+cd ../backend
+npm install
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+⚠️ Note: Keep your .env file private. Never commit it to version control.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+▶️ 4. Run the Application
+🚀 Start the Backend Server
+bash
+Copy
+Edit
+cd backend
+npm start
 
-### Analyzing the Bundle Size
+🌐 Start the Frontend Server
+In a new terminal:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+bash
+Copy
+Edit
+cd frontend
+npm start
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+## 💼 My Portfolio
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Here’s where you can find me across the web 👇
 
-### Deployment
+### 🌐 Professional Profile
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- 💼 [LinkedIn](https://www.linkedin.com/in/avinashjoshi28/) – Let’s connect professionally and grow together!
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-"# Fitness-World" 
+### 🚀 Competitive Programming & DSA Profiles
+
+- 🧠 [LeetCode](https://leetcode.com/u/_avinash_joshi_/) – Solved 350+ problems and growing every day!
+- 🥇 [CodeChef](https://www.codechef.com/users/avinash_2807) – Global Rank 347 in **Starters 191**
+- 📚 [GeeksforGeeks](https://auth.geeksforgeeks.org/user/avinashjoshi2803) – DSA articles and problem-solving
+- 🧑‍💻 [Coding Ninjas](https://www.naukri.com/code360/profile/d0571416-8114-44ff-8be8-b32e3b3bace4) – Practicing structured tracks for interview prep **GRANDMASTER CODING NINJA RATING:6134**
+
+---
+
+### 📫 Contact
+
+- 📧 Email: `joshiavinash072@gmail.com`
+- 💬 Always open to collaboration, learning, and cool projects!
