@@ -7,10 +7,15 @@ A full-stack fitness tracking web application where users can log their workouts
 Hi, I'm Avinash Joshi — a passionate and curious software developer who loves building impactful tech products and solving complex problems.
 
 💻 Skilled in MERN Stack (MongoDB, Express.js, React.js, Node.js) and Java with Spring Boot
+
 🧠 Strong command over Data Structures & Algorithms (DSA) with a proven track record
+
 🏆 Global Rank 347 in CodeChef Starters 191 Contest
+
 🧩 Solved 350+ problems on LeetCode, consistently honing problem-solving skills
+
 🚀 I’m deeply interested in emerging technologies, system design, and scalable architecture
+
 🎯 Always looking to collaborate on innovative projects, contribute to open source, and grow as a developer
 Let's connect and build something awesome! 🚀
 
