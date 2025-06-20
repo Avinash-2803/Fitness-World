@@ -17,10 +17,15 @@ Let's connect and build something awesome! 🚀
 🚀 Features
 
 🔐 User Authentication – Sign up and log in using Firebase.
+
 📝 Workout Logging – Add, update, and delete daily workouts.
+
 📊 Progress Dashboard – Visualize progress over time.
+
 🤖 AI Fitness Assistant – Get personalized tips using GenAI.
+
 💪 Exercise Library – Browse exercises with instructions and videos.
+
 🔍 Search & Filter – Quickly find specific workouts or categories.
 
 🧱 Tech Stack
