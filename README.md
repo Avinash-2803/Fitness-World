@@ -1,7 +1,9 @@
 🏋️ Fitness Tracker App
+
 A full-stack fitness tracking web application where users can log their workouts, track their progress, and stay motivated. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js) with Firebase Authentication and CRUD integration for personalized fitness tips.
 
 🚀 About Me
+
 Hi, I'm Avinash Joshi — a passionate and curious software developer who loves building impactful tech products and solving complex problems.
 
 💻 Skilled in MERN Stack (MongoDB, Express.js, React.js, Node.js) and Java with Spring Boot
@@ -13,13 +15,16 @@ Hi, I'm Avinash Joshi — a passionate and curious software developer who loves 
 Let's connect and build something awesome! 🚀
 
 🚀 Features
+
 🔐 User Authentication – Sign up and log in using Firebase.
 📝 Workout Logging – Add, update, and delete daily workouts.
 📊 Progress Dashboard – Visualize progress over time.
 🤖 AI Fitness Assistant – Get personalized tips using GenAI.
 💪 Exercise Library – Browse exercises with instructions and videos.
 🔍 Search & Filter – Quickly find specific workouts or categories.
+
 🧱 Tech Stack
+
 Frontend: React.js, Tailwind CSS
 Backend: Node.js, Express.js
 Database: MongoDB
