@@ -1,3 +1,7 @@
+
+![Screenshot 2025-06-20 213659](https://github.com/user-attachments/assets/f0df6703-9cc9-4d63-a286-84c5c5cfc4bb)
+
+
 🏋️ Fitness Tracker App
 
 A full-stack fitness tracking web application where users can log their workouts, track their progress, and stay motivated. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js) with Firebase Authentication and CRUD integration for personalized fitness tips.
