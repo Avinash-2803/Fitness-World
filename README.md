@@ -60,7 +60,9 @@ Frontend: Vercel
 
 Backend: Render / Heroku
 
-📂 Project Structure
+## 📂 Project Structure
+
+```bash
 fitness-tracker-app/
 ├── frontend/                # React frontend
 │   ├── src/
@@ -76,6 +78,7 @@ fitness-tracker-app/
 │
 ├── README.md
 └── .env.example
+
 
 ✨ Features
 
